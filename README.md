@@ -8,7 +8,7 @@ A sophisticated AI-powered chatbot that provides comprehensive information about
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-##  ![Live Demo](https://namansaxena3108.github.io/Formula-1-Assistant-Chatbot-using-IBM-Watson/)
+##  Live Demo :- https://namansaxena3108.github.io/Formula-1-Assistant-Chatbot-using-IBM-Watson/
 
 ## 🌟 Features
 
