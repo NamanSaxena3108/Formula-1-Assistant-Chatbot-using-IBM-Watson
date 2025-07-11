@@ -1,0 +1,176 @@
+Core Intents for Your F1 Watsonx Assistant
+1. Circuit Information Intent
+Intent Name: circuit_info Description: Users asking about F1 circuits and tracks
+
+Example User Expressions:
+
+Tell me about Monaco circuit
+What is the fastest F1 track?
+How long is the Silverstone circuit?
+Which circuit has the most corners?
+What makes Spa-Francorchamps special?
+Tell me about Monza track
+What are the characteristics of Suzuka circuit?
+Which is the most challenging F1 circuit?
+How many circuits are there in F1?
+What is the longest F1 track?
+
+
+2. Driver Information Intent
+Intent Name: driver_info Description: Users asking about F1 drivers and their statistics
+
+Example User Expressions:
+
+Tell me about Max Verstappen
+Who is the current world champion?
+How many championships does Lewis Hamilton have?
+Which team does Charles Leclerc drive for?
+Who are the current F1 drivers?
+What nationality is Lando Norris?
+Who drives for Ferrari?
+Tell me about George Russell
+Which driver has won the most races?
+Who is the youngest F1 driver?
+
+
+3. Team Information Intent
+Intent Name: team_info Description: Users asking about F1 teams and constructors
+
+Example User Expressions:
+
+Tell me about Red Bull Racing
+Which teams compete in F1?
+Who drives for Mercedes?
+What is Ferrari's history in F1?
+Which team has won the most championships?
+Tell me about McLaren
+How many teams are in Formula 1?
+Which team is most successful?
+What are the current F1 constructors?
+
+
+4. Race Schedule Intent
+Intent Name: race_schedule Description: Users asking about race calendar and schedule
+
+Example User Expressions:
+
+When is the next F1 race?
+What races are coming up?
+How many races in F1 season?
+When is the Monaco Grand Prix?
+What is the F1 calendar?
+Which race is this weekend?
+When does the season start?
+What time is the race?
+
+
+5. Championship Standings Intent
+Intent Name: championship_standings Description: Users asking about current championship positions
+
+Example User Expressions:
+
+Who is leading the championship?
+What are the current standings?
+How many points does Max Verstappen have?
+Who is in second place?
+What is the points system in F1?
+Show me the constructor standings
+Who is winning the championship?
+How many points behind is second place?
+
+
+6. F1 History Intent
+Intent Name: f1_history Description: Users asking about Formula 1 history and records
+
+Example User Expressions:
+
+When did Formula 1 start?
+Who was the first F1 champion?
+What is the fastest lap record?
+Which driver has the most wins?
+Tell me about F1 history
+What year was F1 founded?
+Who holds the pole position record?
+What are some famous F1 moments?
+
+
+7. Technical Specifications Intent
+Intent Name: technical_specs Description: Users asking about F1 car specifications and technical details
+
+Example User Expressions:
+
+How fast do F1 cars go?
+What engine do F1 cars use?
+How much do F1 cars weigh?
+What are F1 car specifications?
+How powerful are F1 engines?
+What fuel do F1 cars use?
+How many gears do F1 cars have?
+What tires do F1 cars use?
+
+
+8. General F1 Information Intent
+Intent Name: general_f1_info Description: General questions about Formula 1
+
+Example User Expressions:
+
+What is Formula 1?
+How does F1 work?
+What makes F1 special?
+Why is F1 popular?
+What is the pinnacle of motorsport?
+Tell me about Formula 1
+How do F1 races work?
+What is DRS in F1?
+
+
+9. Greeting Intent
+Intent Name: greeting Description: User greetings and conversation starters
+
+Example User Expressions:
+
+Hello
+Hi there
+Good morning
+Hey
+Hi Watson
+Hello F1 assistant
+Good afternoon
+Greetings
+
+
+10. Goodbye Intent
+Intent Name: goodbye Description: User ending conversation
+
+Example User Expressions:
+
+Goodbye
+Bye
+See you later
+Thanks, that's all
+End conversation
+Exit
+Have a good day
+
+
+11. Race Results Intent
+Intent Name: race_results Description: Users asking about race results and outcomes
+
+Example User Expressions:
+
+Who won the last race?
+What were the results of Monaco GP?
+Who finished on the podium?
+What happened in the last race?
+Show me race results
+
+
+12. Weather Impact Intent
+Intent Name: weather_impact Description: Users asking about weather effects on races
+
+Example User Expressions:
+
+How does rain affect F1 races?
+What happens in wet weather?
+Do they race in the rain?
+What are wet weather tires?

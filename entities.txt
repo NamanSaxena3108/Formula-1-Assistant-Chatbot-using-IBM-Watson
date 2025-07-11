@@ -1,0 +1,106 @@
+1  @circuits entity
+Value: monaco
+Synonyms: monte carlo, monaco grand prix, monaco gp, street circuit
+
+Value: silverstone  
+Synonyms: silverstone circuit, british gp, home of f1, northamptonshire
+
+Value: monza
+Synonyms: monza circuit, italian gp, temple of speed, autodromo nazionale
+
+Value: spa
+Synonyms: spa-francorchamps, belgian gp, eau rouge, raidillon
+
+Value: suzuka
+Synonyms: suzuka circuit, japanese gp, figure 8, honda circuit
+
+Value: interlagos
+Synonyms: brazilian gp, sao paulo, autodromo carlos pace
+
+Value: bahrain
+Synonyms: bahrain gp, sakhir, desert circuit
+
+Value: australia
+Synonyms: melbourne, albert park, australian gp
+
+Value: spain
+Synonyms: barcelona, catalunya, spanish gp
+
+Value: canada
+Synonyms: montreal, gilles villeneuve, canadian gp
+
+
+2. @drivers
+Value: verstappen
+Synonyms: max verstappen, max, mv33, red bull driver, world champion
+
+Value: hamilton
+Synonyms: lewis hamilton, lewis, ham44, mercedes driver, sir lewis
+
+Value: leclerc
+Synonyms: charles leclerc, charles, cl16, ferrari driver, monaco driver
+
+Value: norris
+Synonyms: lando norris, lando, ln4, mclaren driver
+
+Value: russell
+Synonyms: george russell, george, gr63, mercedes driver
+
+Value: sainz
+Synonyms: carlos sainz, carlos, cs55, ferrari driver, spanish driver
+
+Value: perez
+Synonyms: sergio perez, checo, sp11, red bull driver, mexican driver
+
+Value: alonso
+Synonyms: fernando alonso, fernando, fa14, aston martin driver
+
+Value: ocon
+Synonyms: esteban ocon, esteban, eo31, alpine driver
+
+Value: gasly
+Synonyms: pierre gasly, pierre, pg10, alpine driver
+
+3. @teams
+Value: redbull
+Synonyms: red bull racing, red bull, rbr, oracle red bull
+
+Value: mercedes
+Synonyms: mercedes amg, mercedes benz, silver arrows, merc
+
+Value: ferrari
+Synonyms: scuderia ferrari, prancing horse, maranello, sf
+
+Value: mclaren
+Synonyms: mclaren racing, papaya team, woking
+
+Value: alpine
+Synonyms: alpine f1, enstone, renault
+
+Value: astonmartin
+Synonyms: aston martin racing, green team, amr
+
+Value: williams
+Synonyms: williams racing, grove, fw
+
+Value: haas
+Synonyms: haas f1, american team, vf
+
+Value: alphatauri
+Synonyms: alpha tauri, at, rb, racing bulls
+
+Value: alfaromeo
+Synonyms: alfa romeo, sauber, kick sauber
+
+4. @race_types
+Value: qualifying
+Synonyms: quali, q1, q2, q3, pole position, grid position
+
+Value: practice
+Synonyms: fp1, fp2, fp3, free practice, training
+
+Value: race
+Synonyms: grand prix, gp, main race, sunday race
+
+Value: sprint
+Synonyms: sprint race, sprint qualifying, saturday race
